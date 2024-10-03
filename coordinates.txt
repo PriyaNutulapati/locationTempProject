@@ -1209,3 +1209,14 @@ Latitude: 37.32588914, Longitude: -122.02539062
 Latitude: 37.32588839, Longitude: -122.02542757
 Latitude: 37.32589041, Longitude: -122.02546633
 Latitude: 37.32910677, Longitude: -122.02685743
+Latitude: 37.3291425, Longitude: -122.02685646
+Latitude: 37.32917735, Longitude: -122.02685463
+Latitude: 37.32921153, Longitude: -122.02685753
+Latitude: 37.32924665, Longitude: -122.02685768
+Latitude: 37.32928324, Longitude: -122.02685768
+Latitude: 37.32931951, Longitude: -122.02686047
+Latitude: 37.32935557, Longitude: -122.02686294
+Latitude: 37.32939008, Longitude: -122.02686116
+Latitude: 37.32942452, Longitude: -122.02685901
+Latitude: 37.32945907, Longitude: -122.02685364
+Latitude: 37.33019755, Longitude: -122.02616308
