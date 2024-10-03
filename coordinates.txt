@@ -968,3 +968,14 @@ Latitude: 37.33071401, Longitude: -122.03044911
 Latitude: 37.33073475, Longitude: -122.03047071
 Latitude: 37.33075813, Longitude: -122.03048973
 Latitude: 37.33040634, Longitude: -122.02861597
+Latitude: 37.33041643, Longitude: -122.02866478
+Latitude: 37.33042528, Longitude: -122.02870793
+Latitude: 37.33043289, Longitude: -122.028749
+Latitude: 37.33044233, Longitude: -122.02878832
+Latitude: 37.33045847, Longitude: -122.02882197
+Latitude: 37.33047116, Longitude: -122.02885783
+Latitude: 37.33048701, Longitude: -122.02888947
+Latitude: 37.33050097, Longitude: -122.02892179
+Latitude: 37.33051179, Longitude: -122.02895555
+Latitude: 37.3305234, Longitude: -122.02899275
+Latitude: 37.32462324, Longitude: -122.02323353
