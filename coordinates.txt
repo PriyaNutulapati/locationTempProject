@@ -1290,3 +1290,8 @@ Latitude: 37.32759912, Longitude: -122.02684421
 Latitude: 37.32763427, Longitude: -122.02684373
 Latitude: 37.33034578, Longitude: -122.02833843
 Latitude: 37.33034447, Longitude: -122.02830316
+Latitude: 37.33033364, Longitude: -122.02826665
+Latitude: 37.33031773, Longitude: -122.02822915
+Latitude: 37.33029655, Longitude: -122.02819114
+Latitude: 37.33029063, Longitude: -122.02815119
+Latitude: 37.32617193, Longitude: -122.01973781
