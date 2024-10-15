@@ -1964,3 +1964,8 @@ Latitude: 37.33020111, Longitude: -122.02457648
 Latitude: 37.33020347, Longitude: -122.02453353
 Latitude: 37.33020344, Longitude: -122.02449049
 Latitude: 37.33178632, Longitude: -122.0306262
+Latitude: 37.33176143, Longitude: -122.03066394
+Latitude: 37.33172861, Longitude: -122.03068446
+Latitude: 37.33069543, Longitude: -122.02933632
+Latitude: 37.33069809, Longitude: -122.0292907
+Latitude: 37.33070027, Longitude: -122.02924324
