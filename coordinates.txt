@@ -1954,3 +1954,4 @@ Latitude: 37.33069712, Longitude: -122.02947821
 Latitude: 37.33069587, Longitude: -122.02943077
 Latitude: 37.3306951, Longitude: -122.02938314
 Latitude: 37.33069543, Longitude: -122.02933632
+Latitude: 37.33021775, Longitude: -122.0267642
