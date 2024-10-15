@@ -1969,3 +1969,4 @@ Latitude: 37.33172861, Longitude: -122.03068446
 Latitude: 37.33069543, Longitude: -122.02933632
 Latitude: 37.33069809, Longitude: -122.0292907
 Latitude: 37.33070027, Longitude: -122.02924324
+Latitude: 37.33019539, Longitude: -122.02547858
