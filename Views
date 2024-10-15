@@ -1,0 +1,77 @@
+import SwiftUI
+
+struct ContentView: View {
+    @StateObject var locationManager = LocationManager()
+    @State private var showMap = true  // A flag to show the map
+
+    var body: some View {
+        VStack {
+            if showMap {
+                // Load the web view with the map
+                if let frontendURL = Bundle.main.url(forResource: "map", withExtension: "html") {
+                    Text("Frontend URL: \(frontendURL)")
+                    WebView(url: frontendURL)
+                        .frame(maxWidth: .infinity, maxHeight: .infinity)
+                } else {
+                    Text("Map file not found")
+                }
+            } else {
+                // Display the coordinates
+                if let location = locationManager.location {
+                    Text("Latitude: \(location.coordinate.latitude)")
+                    Text("Longitude: \(location.coordinate.longitude)")
+                } else {
+                    Text("Locating...")
+                }
+            }
+        }
+        .onAppear {
+            locationManager.startLocationUpdates()
+        }
+        .onDisappear {
+            locationManager.stopLocationUpdates() // Properly stopping location updates
+        }
+        .toolbar {
+            Button(action: {
+                showMap.toggle()  // Toggle between coordinates and map view
+                print("Show Map toggled to: \(showMap)")
+            }) {
+                Text(showMap ? "Show Coordinates" : "Show Map")
+            }
+        }
+        .onChange(of: locationManager.location) { newLocation in
+                
+            if newLocation != nil {
+                showMap = true // Automatically show map if new location is available
+            }
+        }
+    }
+}
+
+
+
+
+
+//
+//  WebView.swift
+//  TempLocationManager
+//
+//  Created by Akal One on 10/15/24.
+//
+
+import SwiftUI
+import WebKit
+
+// A SwiftUI wrapper for WKWebView
+struct WebView: UIViewRepresentable {
+    let url: URL
+
+    func makeUIView(context: Context) -> WKWebView {
+        return WKWebView()
+    }
+
+    func updateUIView(_ uiView: WKWebView, context: Context) {
+        let request = URLRequest(url: url)
+        uiView.load(request)
+    }
+}
