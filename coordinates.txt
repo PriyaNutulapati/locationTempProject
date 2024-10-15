@@ -1970,3 +1970,12 @@ Latitude: 37.33069543, Longitude: -122.02933632
 Latitude: 37.33069809, Longitude: -122.0292907
 Latitude: 37.33070027, Longitude: -122.02924324
 Latitude: 37.33019539, Longitude: -122.02547858
+Latitude: 37.33019612, Longitude: -122.02543657
+Latitude: 37.3301975, Longitude: -122.02539606
+Latitude: 37.33022668, Longitude: -122.02358845
+Latitude: 37.33022435, Longitude: -122.02354413
+Latitude: 37.3302215, Longitude: -122.02350016
+Latitude: 37.33022057, Longitude: -122.023459
+Latitude: 37.33021822, Longitude: -122.02341822
+Latitude: 37.33021503, Longitude: -122.02337651
+Latitude: 37.32727968, Longitude: -122.01971621
