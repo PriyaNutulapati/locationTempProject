@@ -1979,3 +1979,5 @@ Latitude: 37.33022057, Longitude: -122.023459
 Latitude: 37.33021822, Longitude: -122.02341822
 Latitude: 37.33021503, Longitude: -122.02337651
 Latitude: 37.32727968, Longitude: -122.01971621
+Latitude: 37.3272494, Longitude: -122.01971639
+Latitude: 37.32653217, Longitude: -122.0265885
