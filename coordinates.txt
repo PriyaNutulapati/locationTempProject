@@ -1999,3 +1999,11 @@ Latitude: 37.32584722, Longitude: -122.0250862
 Latitude: 37.32680266, Longitude: -122.02684669
 Latitude: 37.32683408, Longitude: -122.02685146
 Latitude: 37.32924665, Longitude: -122.02685768
+Latitude: 37.32928324, Longitude: -122.02685768
+Latitude: 37.32987687, Longitude: -122.02685307
+Latitude: 37.32991303, Longitude: -122.0268494
+Latitude: 37.32994938, Longitude: -122.02684691
+Latitude: 37.32998554, Longitude: -122.02684629
+Latitude: 37.33002195, Longitude: -122.02684586
+Latitude: 37.33005828, Longitude: -122.02684323
+Latitude: 37.33020693, Longitude: -122.02522546
