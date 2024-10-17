@@ -1981,3 +1981,7 @@ Latitude: 37.33021503, Longitude: -122.02337651
 Latitude: 37.32727968, Longitude: -122.01971621
 Latitude: 37.3272494, Longitude: -122.01971639
 Latitude: 37.32653217, Longitude: -122.0265885
+Latitude: 37.32655157, Longitude: -122.02661807
+Latitude: 37.33135095, Longitude: -122.03073463
+Latitude: 37.33131509, Longitude: -122.03073779
+Latitude: 37.33128013, Longitude: -122.03073774
