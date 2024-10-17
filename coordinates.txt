@@ -2024,3 +2024,12 @@ Latitude: 37.3266182, Longitude: -122.02670239
 Latitude: 37.3266436, Longitude: -122.02672437
 Latitude: 37.3266695, Longitude: -122.02674573
 Latitude: 37.32852455, Longitude: -122.02685257
+Latitude: 37.32856216, Longitude: -122.02685211
+Latitude: 37.32859921, Longitude: -122.02685503
+Latitude: 37.32952819, Longitude: -122.02684863
+Latitude: 37.32956209, Longitude: -122.02684687
+Latitude: 37.3295958, Longitude: -122.02685248
+Latitude: 37.32963096, Longitude: -122.02685221
+Latitude: 37.32966692, Longitude: -122.0268546
+Latitude: 37.32970245, Longitude: -122.02685877
+Latitude: 37.33022255, Longitude: -122.02795583
