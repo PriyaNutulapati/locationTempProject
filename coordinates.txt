@@ -1988,3 +1988,5 @@ Latitude: 37.33128013, Longitude: -122.03073774
 Latitude: 37.33124551, Longitude: -122.03073664
 Latitude: 37.33121136, Longitude: -122.03073097
 Latitude: 37.33025362, Longitude: -122.02758396
+Latitude: 37.33025232, Longitude: -122.02753387
+Latitude: 37.33025158, Longitude: -122.02748438
