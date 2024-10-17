@@ -1996,3 +1996,4 @@ Latitude: 37.32474728, Longitude: -122.02175261
 Latitude: 37.32474973, Longitude: -122.02179561
 Latitude: 37.32581744, Longitude: -122.02506957
 Latitude: 37.32584722, Longitude: -122.0250862
+Latitude: 37.32680266, Longitude: -122.02684669
